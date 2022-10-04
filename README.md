@@ -1,4 +1,4 @@
-# Django Music Player
+# Music Player
 
 A music player built with django web framework
 
